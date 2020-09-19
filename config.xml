@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.suhailarahiman.matchashape"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Scratch Match The Shape</name>
+
+  <description>
+      Scratch Project. A simple game to match 3 shapes
+  </description>
+
+  <author href="http://suhailarahiman.com" email="subscribe.suhaila@gmail.com">
+      Suhaila Rahiman
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
